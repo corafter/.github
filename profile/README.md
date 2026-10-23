@@ -1,6 +1,6 @@
 <!-- 🔥 Premium Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e5f,100:feb47b&height=200&section=header&text=RDS%20Group&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e5f,100:feb47b&height=200&section=header&text=Corafter&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- ⚡ Typing Animation -->
@@ -12,7 +12,7 @@
 
 ## 🌐 About Us
 
-🚀 **RDS Group** is a **complete technology, software, and digital solutions company** delivering end-to-end services across all domains of IT and business systems.
+🚀 **Corafter** is a **complete technology, software, and digital solutions company** delivering end-to-end services across all domains of IT and business systems.
 
 > 💡 From a simple website to complex enterprise systems like ERP, CRM, SRM, HMS — we build everything under one roof.
 
