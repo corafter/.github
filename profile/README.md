@@ -140,5 +140,5 @@ empowering businesses with innovation, automation, and scalability.
 
 <!-- 🔥 Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7971e,100:ffd200&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000cc,100:0000gg&height=120&section=footer"/>
 </p>
