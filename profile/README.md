@@ -1,6 +1,6 @@
 <!-- 🔥 Premium Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e5f,100:feb47b&height=200&section=header&text=Corafter&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dd7e5f,100:feb47b&height=200&section=header&text=Corafter&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- ⚡ Typing Animation -->
